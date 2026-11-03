@@ -1,0 +1,21 @@
+LOGBOOK KLIEN - CARA PASANG DI HP
+
+Aplikasi ini perlu diletakkan di alamat https supaya bisa dipasang ke layar utama.
+Cara gratis lewat GitHub Pages:
+
+1. Ekstrak file zip ini. Isinya 6 file, termasuk index.html.
+2. Buat akun di github.com, lalu buat repository baru bernama "logbook" (pilih Public).
+3. Di halaman repository, pilih Add file > Upload files, unggah semua file hasil ekstrak, lalu Commit changes.
+4. Buka Settings > Pages. Pada Branch pilih "main" dan folder "/ (root)", lalu Save.
+5. Tunggu sekitar 1 menit. Alamatnya: https://NAMAAKUNMU.github.io/logbook/
+
+Pasang di HP (Android, Chrome):
+1. Buka alamat tadi di Chrome.
+2. Ketuk menu titik tiga, lalu "Instal aplikasi" atau "Tambahkan ke layar utama".
+3. Ikon Logbook muncul di layar utama dan terbuka layar penuh seperti aplikasi.
+
+Penting:
+- Data klien tersimpan di HP yang kamu pakai, bukan di GitHub. Repository publik hanya menyimpan kodenya.
+- Data tidak pindah otomatis ke HP lain. Pakai Pengaturan > Buat cadangan secara berkala, dan Pulihkan untuk memindahkan data.
+- Jangan hapus data browser/Chrome untuk situs ini, nanti data ikut hilang.
+- Setelah terpasang, aplikasi tetap jalan tanpa internet.
